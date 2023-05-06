@@ -1,4 +1,4 @@
-# inventorywebapp
+# Inventorywebapp
 A Simple inventory web app with spring boot
 
 ## Java - 17
